@@ -685,7 +685,7 @@ gnc_account_class_init (AccountClass *klass)
                        "1 USD can be divided into 100 cents.",
                        0,
                        G_MAXINT32,
-                       1000000,
+                       100000000,
                        G_PARAM_READWRITE));
 
     g_object_class_install_property

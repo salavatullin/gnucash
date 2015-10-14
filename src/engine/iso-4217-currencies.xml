@@ -3007,4 +3007,20 @@
   smallest-fraction="1000000"
   local-symbol=""
 />
+
+<!-- Additional currencies -->
+
+<!-- "BTC" - "Bitcoin"
+-->
+<currency
+  isocode="BTC"
+  fullname="Bitcoin"
+  unitname="bitcoin"
+  partname="satoshi"
+  namespace="ISO4217"
+  exchange-code="nil"
+  parts-per-unit="100000000"
+  smallest-fraction="100000000"
+  local-symbol="BTC"
+/>
 </currencylist>
